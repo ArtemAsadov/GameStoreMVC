@@ -131,9 +131,8 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
-
-/GameStore/.vs/GameStore/v16/.suo
-
+/GameStoreMVC/.vs/GameStore/v16/Server/sqlite3
+/GameStoreMVC/.vs/GameStore/v16/.suo
 /GameStore/.vs/GameStore/v16/Server/sqlite3/storage.ide-wal
 /GameStore/.vs/GameStore/v16/Server/sqlite3/storage.ide-shm
 /GameStore/.vs/GameStore/v16/Server/sqlite3/storage.ide
