@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameStore.Domain.Entities.Abstract
 {
-    interface IGameRepository
+    public interface IGameRepository
     {
         IEnumerable<Game> Games { get; }
     }
