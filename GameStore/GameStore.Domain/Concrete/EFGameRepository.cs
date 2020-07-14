@@ -1,10 +1,6 @@
 ﻿using GameStore.Domain.Entities;
-using GameStore.Domain.Entities.Abstract;
-using System;
+using GameStore.Domain.Abstract;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GameStore.Domain.Concrete
 {
