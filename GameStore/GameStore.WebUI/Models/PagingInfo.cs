@@ -18,7 +18,7 @@ namespace GameStore.WebUI.Models
         //Общее кол-во страниц
         public int TotalPages
         {
-            get { return (int)Math.Ceiling((decimal)TotalItems / ItemsPerPage); }
+            get { return (int)Math.Ceiling((decimal)TotalItems / ItemsPerPage); } //Ceiling к ближайшему меньшему кратному
         }
     }
 }
